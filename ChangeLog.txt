@@ -3,3 +3,7 @@ ChangeList 1:
 Made some minor changes to the "MathOperations.py"
 Created "StringOperations.py"
 Created "ListOperations.py"
+
+ChangeList 2:
+
+Created "DictionaryOperations.py"
