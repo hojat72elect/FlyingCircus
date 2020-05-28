@@ -1,3 +1,5 @@
+"""This is a representation of best functions in "math" module."""
+
 import math
 
 print(math.pi)
