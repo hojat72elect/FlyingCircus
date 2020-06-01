@@ -7,3 +7,9 @@ Created "ListOperations.py"
 ChangeList 2:
 
 Created "DictionaryOperations.py"
+
+ChangeList 3:
+
+Created "Functions.py"
+added list comprehensions to "ListOperations.py"
+I might add some tkinter tricks to the package.

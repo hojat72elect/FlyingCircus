@@ -29,4 +29,9 @@ countryList.extend(("Brazil", "Dominican Republic"))  # notice that the iterable
 print(f'the extended country list is this: {countryList}', end='\n\n')
 
 countryList.reverse()
-print(f'And now, we have the reversed version of our country list: {countryList}')
+print(f'And now, we have the reversed version of our country list: {countryList}', end='\n\n')
+
+'''This represents how easily we can do list comprehension in python: '''
+firstList = [8, 3, 9, 4, 7, 3, 9, 8, 6, 3, 3, 9, 8, 6, 3]
+secondList = [i ** 2 for i in firstList if i >= 6]
+print(secondList)
